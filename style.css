@@ -1,0 +1,49 @@
+body{
+    background-color:rgb(140, 195, 198);
+}
+
+.kkk{
+    background-color: brown;
+    height: 100px;
+    width: 300px;
+    cursor: pointer;
+    padding-top: 40px;
+    padding-left: 45px;
+    font-size: 20px;
+    margin-left: 100px;
+
+}
+.kkk:hover{
+color: blue;
+background-color: aquamarine;
+}
+#exampleInputPassword1{
+    
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    border-radius: 20px;
+   
+    
+    width: 300px;
+    color: red;
+
+
+}
+.container{
+    border-radius: 20px;
+    
+    
+    
+
+}
+.submit{
+    margin: 100px;
+}
+.card1:hover{
+    background-color:black;
+}
+.mark1{
+     background-color: yellow;
+}
